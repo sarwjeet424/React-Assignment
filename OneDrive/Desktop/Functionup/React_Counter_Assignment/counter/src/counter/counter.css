@@ -1,0 +1,30 @@
+.counter-component{
+    border:0px ;
+    border-radius: 10px;
+    background-color:rgb(233, 233, 14);
+    height: 100px;
+    width: 25%;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+    padding:30px;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+.butDiv{
+    display: flex;
+    justify-content: space-around;
+}
+
+.but{
+    padding:7px;
+    border: 0px;
+    border-radius: 4px;
+    background-color: rgb(19, 165, 201);
+    color: rgb(12, 12, 12);
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+.but:hover{
+    color: white;
+    background-color: blueviolet;
+}
